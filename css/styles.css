@@ -4670,6 +4670,13 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-text a:focus {
   color: #fff;
 }
+.hov {
+  color: white;
+}
+.hov:hover {
+  color: yellow;
+  background: transparent;
+}
 
 .card {
   position: relative;
